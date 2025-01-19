@@ -1,0 +1,48 @@
+
+body{
+    background-image: url(https://i.ibb.co/0K1nK8w/new.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+
+.hh{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+
+
+.hh2{
+    font-family: "Almarai", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-style: normal;
+    color: white;
+}
+
+
+
+#gk{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+
+}
+
+button {background-color: #ffffff; 
+border: none;
+color: white;
+
+
+}
